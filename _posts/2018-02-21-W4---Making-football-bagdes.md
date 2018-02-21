@@ -1,5 +1,5 @@
 ---
-title: W4 - Making football bagdes
+title: W4 - making football bagdes
 layout: post
 author: harvey.wonnacott
 permalink: /w4---making-football-bagdes/
