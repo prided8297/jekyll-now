@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+I like football, hockey cricket table tennis and long distance running.
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+I have a brother named Toby the year above me and a sister named Beth two yeasr younger than me.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[harvey.wonnacott@challoners.org](mailto:harvey.wonnacott@challoners.org)
