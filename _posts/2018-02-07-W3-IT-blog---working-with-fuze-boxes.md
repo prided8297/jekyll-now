@@ -9,7 +9,7 @@ published: true
 <table>
   <tr>
     <td>Title</td>
-    <td>W3 IT blog - working with fuze boxes</td>
+    <td>W3 - working with fuze boxes</td>
     <td>Date</td>
     <td>24/01/18</td>
   </tr>
