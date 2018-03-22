@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-I like football, hockey cricket table tennis and long distance running.
+I like football, hockey, cricket, table tennis and long distance running.
 
 ### More Information
 
