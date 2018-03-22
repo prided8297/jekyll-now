@@ -1,5 +1,5 @@
 ---
-title: W2-have a working blog
+title: W2 - have a working blog
 layout: post
 author: harvey.wonnacott
 permalink: /w2-have-a-working-blog/
@@ -9,7 +9,7 @@ published: true
 <table>
   <tr>
     <td>Title</td>
-    <td>W2-have a working blog</td>
+    <td>W2 - have a working blog</td>
     <td>Date</td>
     <td>17/01/18</td>
   </tr>
