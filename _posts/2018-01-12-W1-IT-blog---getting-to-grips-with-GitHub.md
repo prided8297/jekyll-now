@@ -1,5 +1,5 @@
 ---
-title: W1 IT blog - getting to grips with GitHub and fuze boxes
+title: W1 getting to grips with GitHub
 layout: post
 author: harvey.wonnacott
 permalink: /w1-it-blog---getting-to-grips-with-github/
