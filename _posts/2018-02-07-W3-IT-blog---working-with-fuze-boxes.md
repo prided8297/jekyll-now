@@ -1,5 +1,5 @@
 ---
-title: W3 IT blog - working with fuze boxes
+title: W3 - working with fuze boxes
 layout: post
 author: harvey.wonnacott
 permalink: /w3-it-blog---working-with-fuze-boxes/
