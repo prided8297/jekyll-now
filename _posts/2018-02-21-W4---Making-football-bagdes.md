@@ -9,7 +9,7 @@ published: true
 <table>
   <tr>
     <td>Title</td>
-    <td>Making Defchars </td>
+    <td>W4 - making defchars </td>
     <td>Date</td>
     <td>31/01/18</td>
   </tr>
