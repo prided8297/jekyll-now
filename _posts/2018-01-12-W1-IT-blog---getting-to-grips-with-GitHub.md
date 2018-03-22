@@ -9,7 +9,7 @@ published: true
 <table>
   <tr>
     <td>Title</td>
-    <td>Getting to grip with GitHub and fuze boxes</td>
+    <td>W1 - getting to grip with GitHub and fuze boxes</td>
     <td>Date</td>
     <td>07/01/18</td>
   </tr>
