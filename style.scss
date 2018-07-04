@@ -19,7 +19,8 @@ html {
 
 body {
 	background-image: url("https://hdbackgroundspot.com//storage/upload/blue-abstract-background/blue-abstract-background-58.jpg");
-  image-repeat: no-repeat
+        background-repeat: no-repeat;
+	background-attachment: fixed;
 	font: 18px/1.4 $helvetica;
   color: #ff0000;
 }
