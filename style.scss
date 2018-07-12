@@ -300,3 +300,21 @@ footer {
 // ... Otherwise it really bloats up the top of the CSS file and makes it difficult to find the start
 @import "highlights";
 @import "svg-icons";
+
+/* lol pornhub */
+
+.wrapper-masthead {
+  background: black;
+
+  & .container {
+    box-shadow: none;
+    background: none;
+    
+    .masthead {
+      border-bottom: 0;
+      background: url(https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Pornhub-logo.svg/330px-Pornhub-logo.svg.png) no-repeat left center / 32%;
+      
+      * { display: none }
+    }
+  }
+}
