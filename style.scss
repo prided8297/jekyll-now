@@ -309,12 +309,24 @@ footer {
   & .container {
     box-shadow: none;
     background: none;
+    border: none;
     
     .masthead {
       border-bottom: 0;
+      height: 80px;
       background: url(https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Pornhub-logo.svg/330px-Pornhub-logo.svg.png) no-repeat left center / 32%;
       
       * { display: none }
     }
   }
+}
+
+body { background: black }
+
+.container {
+  box-shadow: 0;
+  border-radius: 0;
+  border: 2px solid #464646;
+  background: none;
+  padding: 20px;
 }
