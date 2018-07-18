@@ -301,7 +301,6 @@ footer {
 @import "highlights";
 @import "svg-icons";
 
-/* lol pornhub */
 
 .wrapper-masthead {
   background: black;
@@ -311,14 +310,6 @@ footer {
     background: none;
     border: none;
     
-    .masthead {
-      border-bottom: 0;
-      height: 80px;
-      background: url(https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Pornhub-logo.svg/330px-Pornhub-logo.svg.png) no-repeat left center / 32%;
-      
-      * { display: none }
-    }
-  }
 }
 
 body { background: black }
